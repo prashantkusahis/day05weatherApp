@@ -1,4 +1,4 @@
-aaaaaa# day05weatherApp
+aaaaa# day05weatherApp
 
 Absolutely! Crafting a clear and informative README is crucial for your GitHub project. Here's a template for your Weather App README:
 
